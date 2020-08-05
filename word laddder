@@ -1,0 +1,15 @@
+class Solution {
+public:
+    struct trie
+    {
+        struct trie *children[26];
+        bool eow;
+    }TrieNode;
+    TrieNode* createNode()
+    {
+        TrieNode* ret=()
+    }
+    int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
+        
+    }
+};
